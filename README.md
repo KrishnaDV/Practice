@@ -1,3 +1,2 @@
-# Data-Structures---Problems
-This is implementation of various Data Structures problems generally asked in Software engineer interviews. All the problems are solved in 
-Java
+# Practice Problems
+This is implementation of various Java & Programming fundamentals entirely written by me for better understanding or while learning new things.
